@@ -1,6 +1,5 @@
 package com.wintux.computadorita.Controllers;
-
-import com.wintux.computadorita.Tools.Calculadora;
+import tools.Calculadora;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
